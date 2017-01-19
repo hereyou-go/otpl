@@ -3,7 +3,7 @@ package opc
 import (
 	"testing"
 
-	"github.com/one-go/otpl/common"
+	"github.com/hereyou-go/otpl/common"
 )
 
 func getFunc() common.TemplateFunc {

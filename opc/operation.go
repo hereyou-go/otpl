@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/one-go/otpl/common"
+	"github.com/hereyou-go/otpl/common"
 )
 
 type Operator byte

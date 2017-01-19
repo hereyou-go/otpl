@@ -5,8 +5,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/one-go/otpl/common"
-	"github.com/one-go/web/utils"
+	"github.com/hereyou-go/otpl/common"
+	"github.com/hereyou-go/web/utils"
 )
 
 type opLoadMember struct {

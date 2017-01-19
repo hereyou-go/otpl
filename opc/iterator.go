@@ -3,7 +3,7 @@ package opc
 import (
 	"reflect"
 
-	"github.com/one-go/otpl/common"
+	"github.com/hereyou-go/otpl/common"
 )
 
 type Iterator interface {

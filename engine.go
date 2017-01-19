@@ -1,6 +1,6 @@
 package otpl
 
-import "github.com/one-go/otpl/runtime"
+import "github.com/hereyou-go/otpl/runtime"
 
 func New(ilpath string) *runtime.Runtime {
 	return runtime.NewRuntime(ilpath, true)

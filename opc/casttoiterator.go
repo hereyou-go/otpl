@@ -1,7 +1,7 @@
 package opc
 
 import (
-	"github.com/one-go/otpl/common"
+	"github.com/hereyou-go/otpl/common"
 )
 
 type opCastToIterator struct {

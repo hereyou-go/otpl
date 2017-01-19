@@ -1,6 +1,6 @@
 package opc
 
-import "github.com/one-go/otpl/common"
+import "github.com/hereyou-go/otpl/common"
 
 type opBlock struct {
 	opBase

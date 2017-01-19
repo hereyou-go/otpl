@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/one-go/otpl/common"
+	"github.com/hereyou-go/otpl/common"
 )
 
 func canonicalName(template, base string) string {

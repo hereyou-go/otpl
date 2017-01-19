@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/one-go/otpl/common"
-	_ "github.com/one-go/otpl/opc"
+	"github.com/hereyou-go/otpl/common"
+	_ "github.com/hereyou-go/otpl/opc"
 )
 
 func TestReads(t *testing.T) {

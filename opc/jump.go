@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/one-go/otpl/common"
+	"github.com/hereyou-go/otpl/common"
 )
 
 const (

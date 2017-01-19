@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/one-go/otpl/common"
+	"github.com/hereyou-go/otpl/common"
 )
 
 type ContextData map[string]interface{}

@@ -3,8 +3,8 @@ package opc
 import (
 	"fmt"
 
-	"github.com/one-go/logs"
-	"github.com/one-go/otpl/common"
+	"github.com/hereyou-go/logs"
+	"github.com/hereyou-go/otpl/common"
 )
 
 const (
